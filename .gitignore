@@ -1,0 +1,7 @@
+# Secrets: never commit. Copy .env.example to .env instead.
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
